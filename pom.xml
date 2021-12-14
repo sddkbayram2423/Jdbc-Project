@@ -21,7 +21,7 @@
 	
 	<properties>
 		<mysql.version>8.0.17</mysql.version>
-		<Log4j.version>2.11.1</Log4j.version>
+		<Log4j.version>2.16.0</Log4j.version>
 	</properties>
 	
 
