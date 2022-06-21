@@ -20,7 +20,7 @@
 	</build>
 	
 	<properties>
-		<mysql.version>8.0.17</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<Log4j.version>2.11.1</Log4j.version>
 	</properties>
 	
